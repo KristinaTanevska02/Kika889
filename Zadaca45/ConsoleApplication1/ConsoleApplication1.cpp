@@ -1,3 +1,6 @@
+//Kristina Tanvska INKI889
+// Zadaca so zgolemen ili namalen ASCII kod na karakterite, zgolemen koga kodira, namalen koga dekodira
+
 #include <iostream>
 #include <string>
 #include <cctype>
